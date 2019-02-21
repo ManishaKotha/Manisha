@@ -1,1 +1,1 @@
-# Manisha
+# Pacman Game project
